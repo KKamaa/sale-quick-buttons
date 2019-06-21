@@ -3,7 +3,7 @@
 
 {
     'name': "Sale Quotation Buttons",
-    'version': '11.0.1.0',
+    'version': '11.0.1.0.0',
     'depends': ['sale'],
     'author': "Kevin Kamau",
     'category': 'Sales',
@@ -11,5 +11,6 @@
     'data': [
         'views/sale_order_view.xml'
     ],
+    'images': ['images/main_screenshot.png'],
     'installable': True
 }
