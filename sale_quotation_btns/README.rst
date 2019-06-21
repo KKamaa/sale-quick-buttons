@@ -4,6 +4,5 @@
 
 Sale Quotation Btns
 ===================
-This module adds quotation buttons to view quotation without downloading pdf
-opens Odoo sale report via url for a specific quotation. Allows you to edit and
-modify the specific quotation and download it this affects the html view.
+This module adds view buttons to view both HTML and PDF sale orders without downloading
+them to local. Applies to Quotations.
