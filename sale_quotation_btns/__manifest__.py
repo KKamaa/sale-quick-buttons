@@ -4,7 +4,7 @@
 {
     'name': "Sale Quotation Buttons",
     'version': '11.0.1.0.0',
-    'depends': ['sale'],
+    'depends': ['sale_management'],
     'author': "Kevin Kamau",
     'category': 'Sales',
     'license': 'LGPL-3',
